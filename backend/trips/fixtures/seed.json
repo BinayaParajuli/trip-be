@@ -1,0 +1,1083 @@
+{
+  "destinations": [
+    {
+      "slug": "nepal",
+      "name": "Nepal",
+      "tagline": "Eight of the world's ten highest peaks, and the villages beneath them",
+      "intro": "From the Khumbu glaciers to the grasslands of the Terai, Nepal packs more change of scenery into a week than most countries manage in a lifetime. Trek to a base camp, walk the old trade routes of Mustang, or track rhinos on the jungle floor.",
+      "image": "/images/everest.jpg",
+      "regions": [
+        {
+          "slug": "everest",
+          "name": "Everest",
+          "tagline": "Sherpa villages and the world's highest peak",
+          "image": "/images/everest.jpg"
+        },
+        {
+          "slug": "annapurna",
+          "name": "Annapurna & Pokhara",
+          "tagline": "Classic treks and a laid-back lake town",
+          "image": "/images/annapurna-base-camp.jpg"
+        },
+        {
+          "slug": "kathmandu-valley",
+          "name": "Kathmandu Valley",
+          "tagline": "Royal cities, stupas and ridge-top hikes",
+          "image": "/images/durbar-square.jpg"
+        },
+        {
+          "slug": "langtang",
+          "name": "Langtang",
+          "tagline": "Glacier valley trekking close to Kathmandu",
+          "image": "/images/langtang.jpg"
+        },
+        {
+          "slug": "manaslu",
+          "name": "Manaslu",
+          "tagline": "A quiet circuit round the eighth-highest peak",
+          "image": "/images/manaslu.jpg"
+        },
+        {
+          "slug": "mustang",
+          "name": "Mustang",
+          "tagline": "The walled city of the former Kingdom of Lo",
+          "image": "/images/mustang.jpg"
+        },
+        {
+          "slug": "chitwan",
+          "name": "Chitwan",
+          "tagline": "Rhinos, river canoes and jungle walks",
+          "image": "/images/chitwan.jpg"
+        },
+        {
+          "slug": "bardia",
+          "name": "Bardia",
+          "tagline": "Remote far-west jungle and wild tigers",
+          "image": "/images/bardia.jpg"
+        }
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "slug": "mountains",
+      "name": "Mountain Treks",
+      "description": "Multi-day trails to base camps and high passes"
+    },
+    {
+      "slug": "culture",
+      "name": "Culture",
+      "description": "Temples, festivals and life in old towns"
+    },
+    {
+      "slug": "wildlife",
+      "name": "Wildlife",
+      "description": "Rhinos, tigers and birds in the national parks"
+    },
+    {
+      "slug": "overland",
+      "name": "Overland",
+      "description": "Scenic road journeys with time to stop"
+    },
+    {
+      "slug": "heli",
+      "name": "Heli",
+      "description": "Fly into the high Himalaya in a morning"
+    },
+    {
+      "slug": "hike",
+      "name": "Kathmandu Hikes",
+      "description": "Day walks on the valley rim"
+    }
+  ],
+  "trips": [
+    {
+      "slug": "everest-base-camp-trek",
+      "title": "Everest Base Camp Trek",
+      "summary": "The classic walk through Sherpa country to the foot of the world's highest mountain, with sunrise over Everest from Kala Patthar.",
+      "destination": "nepal",
+      "region": "everest",
+      "interests": [
+        "mountains"
+      ],
+      "durationDays": 14,
+      "difficulty": "Challenging",
+      "maxAltitudeM": 5545,
+      "groupSize": "2–12",
+      "bestSeason": "Mar–May, Oct–Nov",
+      "priceFromUsd": 1650,
+      "image": "/images/everest.jpg",
+      "bestseller": true,
+      "highlights": [
+        "Sunrise view of Everest from Kala Patthar (5,545 m)",
+        "Tengboche Monastery and its prayer hall",
+        "Two acclimatisation days in Namche and Dingboche",
+        "The mountain flight into Lukla"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Arrive in Kathmandu",
+          "description": "Transfer to your hotel and meet your guide for a trip briefing."
+        },
+        {
+          "day": "Day 2",
+          "title": "Fly to Lukla, trek to Phakding",
+          "description": "Scenic flight to Lukla (2,860 m) and an easy first walk along the Dudh Koshi."
+        },
+        {
+          "day": "Days 3–4",
+          "title": "Namche Bazaar",
+          "description": "Climb to the Sherpa capital and spend a day acclimatising with a hike to the Everest View Hotel."
+        },
+        {
+          "day": "Day 5",
+          "title": "Tengboche",
+          "description": "Trail through rhododendron forest to the monastery, with Ama Dablam ahead."
+        },
+        {
+          "day": "Days 6–7",
+          "title": "Dingboche",
+          "description": "Into the alpine zone. A second rest day with an acclimatisation hike above the village."
+        },
+        {
+          "day": "Days 8–9",
+          "title": "Lobuche and Gorak Shep",
+          "description": "Past the climbers' memorials to Gorak Shep, then on to Everest Base Camp."
+        },
+        {
+          "day": "Day 10",
+          "title": "Kala Patthar and descent",
+          "description": "Pre-dawn climb for the best view of Everest, then descend to Pheriche."
+        },
+        {
+          "day": "Days 11–12",
+          "title": "Back to Lukla",
+          "description": "Retrace the trail through Namche to Lukla."
+        },
+        {
+          "day": "Day 13",
+          "title": "Fly to Kathmandu",
+          "description": "Morning flight back to Kathmandu and a free afternoon."
+        },
+        {
+          "day": "Day 14",
+          "title": "Departure",
+          "description": "Transfer to the airport."
+        }
+      ],
+      "includes": [
+        "Airport transfers in Kathmandu",
+        "Licensed English-speaking trekking guide",
+        "Porter support (one porter for two trekkers)",
+        "Teahouse accommodation and three meals a day on trek",
+        "National park and conservation area permits",
+        "Domestic flights or ground transport as listed"
+      ],
+      "excludes": [
+        "International flights and Nepal visa fee",
+        "Travel insurance with helicopter evacuation cover",
+        "Hotel meals in Kathmandu and Pokhara",
+        "Drinks, hot showers and device charging on trek",
+        "Tips for guides and porters"
+      ]
+    },
+    {
+      "slug": "annapurna-base-camp-trek",
+      "title": "Annapurna Base Camp Trek",
+      "summary": "Walk through Gurung villages and bamboo forest into the Annapurna Sanctuary, a high amphitheatre ringed by peaks.",
+      "destination": "nepal",
+      "region": "annapurna",
+      "interests": [
+        "mountains"
+      ],
+      "durationDays": 10,
+      "difficulty": "Moderate",
+      "maxAltitudeM": 4130,
+      "groupSize": "2–12",
+      "bestSeason": "Mar–May, Oct–Nov",
+      "priceFromUsd": 1090,
+      "image": "/images/annapurna-base-camp.jpg",
+      "bestseller": true,
+      "highlights": [
+        "A night inside the Annapurna Sanctuary at 4,130 m",
+        "Machhapuchhre, the 'fishtail' mountain, at close range",
+        "Hot springs at Jhinu Danda on the way down",
+        "Lakeside evenings in Pokhara"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Kathmandu to Pokhara",
+          "description": "Drive or fly to Pokhara and settle in by Phewa Lake."
+        },
+        {
+          "day": "Day 2",
+          "title": "Drive to Nayapul, trek to Ghandruk",
+          "description": "Short drive then a climb to the Gurung village of Ghandruk."
+        },
+        {
+          "day": "Days 3–4",
+          "title": "Chhomrong and Bamboo",
+          "description": "Stone stairways and river crossings into the Modi Khola gorge."
+        },
+        {
+          "day": "Day 5",
+          "title": "Machhapuchhre Base Camp",
+          "description": "Out of the forest and into the sanctuary."
+        },
+        {
+          "day": "Day 6",
+          "title": "Annapurna Base Camp",
+          "description": "Short morning walk to ABC. Sunset and sunrise on the south face."
+        },
+        {
+          "day": "Days 7–8",
+          "title": "Descend to Jhinu Danda",
+          "description": "Long descent with a soak in the riverside hot springs."
+        },
+        {
+          "day": "Day 9",
+          "title": "Back to Pokhara",
+          "description": "Walk out and drive to Pokhara."
+        },
+        {
+          "day": "Day 10",
+          "title": "Return to Kathmandu",
+          "description": "Drive or fly back to Kathmandu."
+        }
+      ],
+      "includes": [
+        "Airport transfers in Kathmandu",
+        "Licensed English-speaking trekking guide",
+        "Porter support (one porter for two trekkers)",
+        "Teahouse accommodation and three meals a day on trek",
+        "National park and conservation area permits",
+        "Domestic flights or ground transport as listed"
+      ],
+      "excludes": [
+        "International flights and Nepal visa fee",
+        "Travel insurance with helicopter evacuation cover",
+        "Hotel meals in Kathmandu and Pokhara",
+        "Drinks, hot showers and device charging on trek",
+        "Tips for guides and porters"
+      ]
+    },
+    {
+      "slug": "annapurna-circuit-trek",
+      "title": "Annapurna Circuit Trek",
+      "summary": "A full loop around the Annapurna massif, crossing Thorong La and dropping into the sacred valley of Muktinath.",
+      "destination": "nepal",
+      "region": "annapurna",
+      "interests": [
+        "mountains",
+        "culture"
+      ],
+      "durationDays": 15,
+      "difficulty": "Challenging",
+      "maxAltitudeM": 5416,
+      "groupSize": "2–12",
+      "bestSeason": "Mar–May, Oct–Nov",
+      "priceFromUsd": 1390,
+      "image": "/images/annapurna-circuit.jpg",
+      "highlights": [
+        "Crossing Thorong La pass at 5,416 m",
+        "Tibetan-influenced villages of Manang",
+        "The temple complex at Muktinath",
+        "Apple orchards of Marpha"
+      ],
+      "itinerary": [
+        {
+          "day": "Days 1–2",
+          "title": "Kathmandu to Chame",
+          "description": "Arrive in Kathmandu, then a long scenic drive into the Marsyangdi valley."
+        },
+        {
+          "day": "Days 3–4",
+          "title": "Pisang and Manang",
+          "description": "Pine forest gives way to dry, high valleys. Rest day in Manang."
+        },
+        {
+          "day": "Days 5–7",
+          "title": "Yak Kharka to High Camp",
+          "description": "Short days to gain altitude safely."
+        },
+        {
+          "day": "Day 8",
+          "title": "Thorong La to Muktinath",
+          "description": "Early start to cross the pass, then a long descent to Muktinath."
+        },
+        {
+          "day": "Days 9–10",
+          "title": "Jomsom and Marpha",
+          "description": "Walk or drive down the Kali Gandaki gorge."
+        },
+        {
+          "day": "Days 11–13",
+          "title": "Tatopani and Poon Hill",
+          "description": "Hot springs, then a sunrise viewpoint over the Dhaulagiri and Annapurna ranges."
+        },
+        {
+          "day": "Days 14–15",
+          "title": "Pokhara and Kathmandu",
+          "description": "Finish in Pokhara and return to Kathmandu."
+        }
+      ],
+      "includes": [
+        "Airport transfers in Kathmandu",
+        "Licensed English-speaking trekking guide",
+        "Porter support (one porter for two trekkers)",
+        "Teahouse accommodation and three meals a day on trek",
+        "National park and conservation area permits",
+        "Domestic flights or ground transport as listed"
+      ],
+      "excludes": [
+        "International flights and Nepal visa fee",
+        "Travel insurance with helicopter evacuation cover",
+        "Hotel meals in Kathmandu and Pokhara",
+        "Drinks, hot showers and device charging on trek",
+        "Tips for guides and porters"
+      ]
+    },
+    {
+      "slug": "poon-hill-and-pokhara",
+      "title": "Poon Hill & Pokhara Short Trek",
+      "summary": "A gentle introduction to trekking: rhododendron forests, a famous sunrise viewpoint and time to relax by the lake.",
+      "destination": "nepal",
+      "region": "annapurna",
+      "interests": [
+        "mountains",
+        "culture"
+      ],
+      "durationDays": 6,
+      "difficulty": "Easy",
+      "maxAltitudeM": 3210,
+      "groupSize": "2–14",
+      "bestSeason": "Year-round (best Oct–Apr)",
+      "priceFromUsd": 690,
+      "image": "/images/pokhara.jpg",
+      "bestseller": true,
+      "highlights": [
+        "Sunrise over Dhaulagiri and Annapurna from Poon Hill",
+        "Magar and Gurung villages",
+        "Suitable for families and first-time trekkers"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Kathmandu to Pokhara",
+          "description": "Travel to Pokhara and an evening by Phewa Lake."
+        },
+        {
+          "day": "Day 2",
+          "title": "Trek to Tikhedhunga",
+          "description": "Short drive, then an easy walk along terraced hillsides."
+        },
+        {
+          "day": "Day 3",
+          "title": "Ghorepani",
+          "description": "Stone steps up through rhododendron forest."
+        },
+        {
+          "day": "Day 4",
+          "title": "Poon Hill sunrise, trek to Tadapani",
+          "description": "Dawn climb to the viewpoint, then along the ridge."
+        },
+        {
+          "day": "Day 5",
+          "title": "Ghandruk and Pokhara",
+          "description": "Walk to Ghandruk and drive back to Pokhara."
+        },
+        {
+          "day": "Day 6",
+          "title": "Return to Kathmandu",
+          "description": "Drive or fly back."
+        }
+      ],
+      "includes": [
+        "Airport transfers in Kathmandu",
+        "Licensed English-speaking trekking guide",
+        "Porter support (one porter for two trekkers)",
+        "Teahouse accommodation and three meals a day on trek",
+        "National park and conservation area permits",
+        "Domestic flights or ground transport as listed"
+      ],
+      "excludes": [
+        "International flights and Nepal visa fee",
+        "Travel insurance with helicopter evacuation cover",
+        "Hotel meals in Kathmandu and Pokhara",
+        "Drinks, hot showers and device charging on trek",
+        "Tips for guides and porters"
+      ]
+    },
+    {
+      "slug": "langtang-valley-trek",
+      "title": "Langtang Valley Trek",
+      "summary": "The closest big-mountain trek to Kathmandu: a glacier valley of Tamang villages, yak pastures and an old cheese factory.",
+      "destination": "nepal",
+      "region": "langtang",
+      "interests": [
+        "mountains"
+      ],
+      "durationDays": 8,
+      "difficulty": "Moderate",
+      "maxAltitudeM": 4984,
+      "groupSize": "2–12",
+      "bestSeason": "Mar–May, Oct–Nov",
+      "priceFromUsd": 820,
+      "image": "/images/langtang.jpg",
+      "bestseller": true,
+      "highlights": [
+        "Kyanjin Gompa and its views of Langtang Lirung",
+        "Optional climb of Tserko Ri (4,984 m)",
+        "No flights needed — drive from Kathmandu"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Drive to Syabrubesi",
+          "description": "Scenic drive north from Kathmandu."
+        },
+        {
+          "day": "Days 2–3",
+          "title": "Lama Hotel and Langtang village",
+          "description": "Forest trail along the Langtang Khola, then into the open valley."
+        },
+        {
+          "day": "Days 4–5",
+          "title": "Kyanjin Gompa",
+          "description": "Monastery, cheese factory and a day hike up Tserko Ri."
+        },
+        {
+          "day": "Days 6–7",
+          "title": "Back to Syabrubesi",
+          "description": "Descend the valley."
+        },
+        {
+          "day": "Day 8",
+          "title": "Drive to Kathmandu",
+          "description": "Return to the city."
+        }
+      ],
+      "includes": [
+        "Airport transfers in Kathmandu",
+        "Licensed English-speaking trekking guide",
+        "Porter support (one porter for two trekkers)",
+        "Teahouse accommodation and three meals a day on trek",
+        "National park and conservation area permits",
+        "Domestic flights or ground transport as listed"
+      ],
+      "excludes": [
+        "International flights and Nepal visa fee",
+        "Travel insurance with helicopter evacuation cover",
+        "Hotel meals in Kathmandu and Pokhara",
+        "Drinks, hot showers and device charging on trek",
+        "Tips for guides and porters"
+      ]
+    },
+    {
+      "slug": "manaslu-circuit-trek",
+      "title": "Manaslu Circuit Trek",
+      "summary": "A quieter alternative to the Annapurna Circuit, looping the world's eighth-highest peak through a restricted area.",
+      "destination": "nepal",
+      "region": "manaslu",
+      "interests": [
+        "mountains",
+        "culture"
+      ],
+      "durationDays": 16,
+      "difficulty": "Challenging",
+      "maxAltitudeM": 5106,
+      "groupSize": "2–10",
+      "bestSeason": "Mar–May, Sep–Nov",
+      "priceFromUsd": 1790,
+      "image": "/images/manaslu.jpg",
+      "highlights": [
+        "Larkya La pass at 5,106 m",
+        "Tibetan Buddhist villages of Samagaun and Samdo",
+        "Restricted-area permit keeps trails quiet"
+      ],
+      "itinerary": [
+        {
+          "day": "Days 1–2",
+          "title": "Kathmandu to Machha Khola",
+          "description": "Arrive, then drive to the start of the trail."
+        },
+        {
+          "day": "Days 3–6",
+          "title": "Up the Budhi Gandaki",
+          "description": "Suspension bridges and gorges to Namrung."
+        },
+        {
+          "day": "Days 7–9",
+          "title": "Samagaun",
+          "description": "Rest and acclimatisation, with a hike towards Manaslu base camp."
+        },
+        {
+          "day": "Days 10–11",
+          "title": "Samdo and Dharamsala",
+          "description": "Approach the pass."
+        },
+        {
+          "day": "Day 12",
+          "title": "Larkya La to Bimthang",
+          "description": "The big day over the pass."
+        },
+        {
+          "day": "Days 13–16",
+          "title": "Descend and return",
+          "description": "Walk out to Dharapani and drive back to Kathmandu."
+        }
+      ],
+      "includes": [
+        "Airport transfers in Kathmandu",
+        "Licensed English-speaking trekking guide",
+        "Porter support (one porter for two trekkers)",
+        "Teahouse accommodation and three meals a day on trek",
+        "National park and conservation area permits",
+        "Domestic flights or ground transport as listed",
+        "Manaslu restricted-area permit"
+      ],
+      "excludes": [
+        "International flights and Nepal visa fee",
+        "Travel insurance with helicopter evacuation cover",
+        "Hotel meals in Kathmandu and Pokhara",
+        "Drinks, hot showers and device charging on trek",
+        "Tips for guides and porters"
+      ]
+    },
+    {
+      "slug": "upper-mustang-trek",
+      "title": "Upper Mustang Trek",
+      "summary": "Walk into the former Kingdom of Lo: red cliffs, cave dwellings and the walled city of Lo Manthang.",
+      "destination": "nepal",
+      "region": "mustang",
+      "interests": [
+        "culture",
+        "mountains"
+      ],
+      "durationDays": 13,
+      "difficulty": "Moderate",
+      "maxAltitudeM": 3840,
+      "groupSize": "2–10",
+      "bestSeason": "Apr–Nov (rain-shadow)",
+      "priceFromUsd": 2350,
+      "image": "/images/mustang.jpg",
+      "highlights": [
+        "The walled city of Lo Manthang",
+        "Ancient cave monasteries and painted chortens",
+        "Trekkable during the monsoon"
+      ],
+      "itinerary": [
+        {
+          "day": "Days 1–2",
+          "title": "Kathmandu to Jomsom",
+          "description": "Fly to Pokhara and on to Jomsom."
+        },
+        {
+          "day": "Days 3–6",
+          "title": "Kagbeni to Charang",
+          "description": "Enter the restricted area through eroded canyons."
+        },
+        {
+          "day": "Days 7–8",
+          "title": "Lo Manthang",
+          "description": "Explore the old city, monasteries and nearby caves."
+        },
+        {
+          "day": "Days 9–11",
+          "title": "Return via Ghami",
+          "description": "A different route back south."
+        },
+        {
+          "day": "Days 12–13",
+          "title": "Fly out",
+          "description": "Jomsom to Pokhara and on to Kathmandu."
+        }
+      ],
+      "includes": [
+        "Airport transfers in Kathmandu",
+        "Licensed English-speaking trekking guide",
+        "Porter support (one porter for two trekkers)",
+        "Teahouse accommodation and three meals a day on trek",
+        "National park and conservation area permits",
+        "Domestic flights or ground transport as listed",
+        "Upper Mustang restricted-area permit"
+      ],
+      "excludes": [
+        "International flights and Nepal visa fee",
+        "Travel insurance with helicopter evacuation cover",
+        "Hotel meals in Kathmandu and Pokhara",
+        "Drinks, hot showers and device charging on trek",
+        "Tips for guides and porters"
+      ]
+    },
+    {
+      "slug": "chitwan-wildlife-safari",
+      "title": "Chitwan Wildlife Safari",
+      "summary": "Three days in Nepal's best-known national park: jeep safari, canoe trip and a walk with naturalist guides.",
+      "destination": "nepal",
+      "region": "chitwan",
+      "interests": [
+        "wildlife"
+      ],
+      "durationDays": 3,
+      "difficulty": "Easy",
+      "maxAltitudeM": 415,
+      "groupSize": "2–12",
+      "bestSeason": "Oct–Mar",
+      "priceFromUsd": 390,
+      "image": "/images/chitwan.jpg",
+      "bestseller": true,
+      "highlights": [
+        "Greater one-horned rhinos in the grasslands",
+        "Dugout canoe trip on the Rapti river",
+        "Tharu village visit"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Kathmandu to Chitwan",
+          "description": "Drive to Sauraha and a sunset walk by the river."
+        },
+        {
+          "day": "Day 2",
+          "title": "Safari day",
+          "description": "Morning canoe trip and jungle walk, afternoon jeep safari."
+        },
+        {
+          "day": "Day 3",
+          "title": "Birdwatching and return",
+          "description": "Early birding walk, then return to Kathmandu or onward to Pokhara."
+        }
+      ],
+      "includes": [
+        "Airport transfers and private vehicle with driver",
+        "Licensed local guide",
+        "Hotel accommodation with breakfast",
+        "Entrance fees to listed sites",
+        "All meals at the lodge",
+        "Park entry and activities listed"
+      ],
+      "excludes": [
+        "International flights and visa fees",
+        "Travel insurance",
+        "Lunches, dinners and drinks unless listed",
+        "Tips and personal expenses"
+      ]
+    },
+    {
+      "slug": "bardia-tiger-tracking",
+      "title": "Bardia Tiger Tracking",
+      "summary": "Remote far-west jungle with Nepal's best chance of seeing a wild tiger, tracked on foot with experienced naturalists.",
+      "destination": "nepal",
+      "region": "bardia",
+      "interests": [
+        "wildlife"
+      ],
+      "durationDays": 5,
+      "difficulty": "Easy",
+      "maxAltitudeM": 200,
+      "groupSize": "2–8",
+      "bestSeason": "Feb–May",
+      "priceFromUsd": 640,
+      "image": "/images/bardia.jpg",
+      "highlights": [
+        "Full-day walking safaris along the Karnali",
+        "Wild elephants, rhinos and gharial crocodiles",
+        "Small eco-lodge run with the local community"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Fly to Nepalgunj",
+          "description": "Flight west and a drive to the park."
+        },
+        {
+          "day": "Days 2–4",
+          "title": "Tracking days",
+          "description": "Walking and jeep safaris, river watch-points and a Tharu village visit."
+        },
+        {
+          "day": "Day 5",
+          "title": "Return to Kathmandu",
+          "description": "Drive and fly back."
+        }
+      ],
+      "includes": [
+        "Airport transfers and private vehicle with driver",
+        "Licensed local guide",
+        "Hotel accommodation with breakfast",
+        "Entrance fees to listed sites",
+        "All meals at the lodge",
+        "Park entry and activities listed"
+      ],
+      "excludes": [
+        "International flights and visa fees",
+        "Travel insurance",
+        "Lunches, dinners and drinks unless listed",
+        "Tips and personal expenses"
+      ]
+    },
+    {
+      "slug": "kathmandu-heritage-tour",
+      "title": "Kathmandu Valley Heritage Tour",
+      "summary": "The valley's three royal cities and its great stupas in three unhurried days with a local guide.",
+      "destination": "nepal",
+      "region": "kathmandu-valley",
+      "interests": [
+        "culture"
+      ],
+      "durationDays": 3,
+      "difficulty": "Easy",
+      "maxAltitudeM": 1400,
+      "groupSize": "1–12",
+      "bestSeason": "Year-round",
+      "priceFromUsd": 290,
+      "image": "/images/durbar-square.jpg",
+      "bestseller": true,
+      "highlights": [
+        "Kathmandu, Patan and Bhaktapur Durbar Squares",
+        "Evening prayers at Boudhanath",
+        "Newari lunch in a Bhaktapur courtyard"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Kathmandu",
+          "description": "Durbar Square, Swayambhunath and the old bazaar."
+        },
+        {
+          "day": "Day 2",
+          "title": "Patan and Boudhanath",
+          "description": "Metalworkers' lanes in Patan, sunset kora at Boudha."
+        },
+        {
+          "day": "Day 3",
+          "title": "Bhaktapur",
+          "description": "Potters' Square, Nyatapola temple and juju dhau yoghurt."
+        }
+      ],
+      "includes": [
+        "Airport transfers and private vehicle with driver",
+        "Licensed local guide",
+        "Hotel accommodation with breakfast",
+        "Entrance fees to listed sites"
+      ],
+      "excludes": [
+        "International flights and visa fees",
+        "Travel insurance",
+        "Lunches, dinners and drinks unless listed",
+        "Tips and personal expenses"
+      ]
+    },
+    {
+      "slug": "boudhanath-spiritual-walk",
+      "title": "Boudhanath & Pashupatinath Walk",
+      "summary": "A half-day walk linking Nepal's holiest Hindu temple with the great Buddhist stupa of Boudha.",
+      "destination": "nepal",
+      "region": "kathmandu-valley",
+      "interests": [
+        "culture",
+        "hike"
+      ],
+      "durationDays": 1,
+      "difficulty": "Easy",
+      "maxAltitudeM": 1400,
+      "groupSize": "1–10",
+      "bestSeason": "Year-round",
+      "priceFromUsd": 65,
+      "image": "/images/boudhanath.jpg",
+      "highlights": [
+        "Pashupatinath ghats",
+        "Butter-lamp evening at Boudhanath",
+        "Tea in a monastery courtyard"
+      ],
+      "itinerary": [
+        {
+          "day": "Afternoon",
+          "title": "Pashupatinath to Boudha",
+          "description": "Walk the riverbank and back lanes, ending at the stupa for the evening kora."
+        }
+      ],
+      "includes": [
+        "Licensed local guide",
+        "Entrance fees",
+        "Hotel pick-up and drop-off"
+      ],
+      "excludes": [
+        "Meals and drinks",
+        "Tips"
+      ]
+    },
+    {
+      "slug": "shivapuri-day-hike",
+      "title": "Shivapuri Peak Day Hike",
+      "summary": "Climb through the forest of Shivapuri National Park for views across the valley to the Langtang and Ganesh ranges.",
+      "destination": "nepal",
+      "region": "kathmandu-valley",
+      "interests": [
+        "hike"
+      ],
+      "durationDays": 1,
+      "difficulty": "Moderate",
+      "maxAltitudeM": 2732,
+      "groupSize": "1–12",
+      "bestSeason": "Oct–May",
+      "priceFromUsd": 55,
+      "image": "/images/shivapuri.jpg",
+      "highlights": [
+        "Himalayan views on clear days",
+        "Nagi Gompa nunnery",
+        "Packed lunch at the summit"
+      ],
+      "itinerary": [
+        {
+          "day": "Full day",
+          "title": "Budhanilkantha to Shivapuri summit",
+          "description": "About 6–7 hours on foot, returning by the nunnery trail."
+        }
+      ],
+      "includes": [
+        "Licensed hiking guide",
+        "Park entry fee",
+        "Packed lunch",
+        "Hotel transfers"
+      ],
+      "excludes": [
+        "Tips"
+      ]
+    },
+    {
+      "slug": "everest-heli-tour",
+      "title": "Everest Helicopter Tour",
+      "summary": "Fly from Kathmandu into the Khumbu, land near Everest Base Camp and have breakfast with a view of the summit.",
+      "destination": "nepal",
+      "region": "everest",
+      "interests": [
+        "heli",
+        "mountains"
+      ],
+      "durationDays": 1,
+      "difficulty": "Easy",
+      "maxAltitudeM": 5545,
+      "groupSize": "1–5 per helicopter",
+      "bestSeason": "Year-round, weather permitting",
+      "priceFromUsd": 1250,
+      "image": "/images/heli.jpg",
+      "highlights": [
+        "Landing at Kala Patthar",
+        "Breakfast at a hotel facing Everest",
+        "Back in Kathmandu by lunchtime"
+      ],
+      "itinerary": [
+        {
+          "day": "Morning",
+          "title": "Kathmandu – Kala Patthar – Kathmandu",
+          "description": "Dawn departure, fuel stop in Lukla, a short landing below Everest and breakfast in Syangboche."
+        }
+      ],
+      "includes": [
+        "Shared helicopter seat",
+        "Breakfast",
+        "National park fees",
+        "Hotel transfers"
+      ],
+      "excludes": [
+        "Private charter supplement",
+        "Travel insurance"
+      ]
+    },
+    {
+      "slug": "nepal-highlights-overland",
+      "title": "Nepal Highlights Overland",
+      "summary": "Kathmandu, Pokhara and Chitwan in ten days by private vehicle — mountains, lakes and jungle without the long treks.",
+      "destination": "nepal",
+      "region": "annapurna",
+      "interests": [
+        "overland",
+        "culture",
+        "wildlife"
+      ],
+      "durationDays": 10,
+      "difficulty": "Easy",
+      "maxAltitudeM": 1600,
+      "groupSize": "2–12",
+      "bestSeason": "Oct–Apr",
+      "priceFromUsd": 1190,
+      "image": "/images/annapurna-range.jpg",
+      "highlights": [
+        "Sunrise over the Annapurnas from Sarangkot",
+        "Bandipur hill town",
+        "Two nights in Chitwan"
+      ],
+      "itinerary": [
+        {
+          "day": "Days 1–3",
+          "title": "Kathmandu Valley",
+          "description": "Heritage sites and the stupas."
+        },
+        {
+          "day": "Day 4",
+          "title": "Bandipur",
+          "description": "Overnight in a car-free Newari hill town."
+        },
+        {
+          "day": "Days 5–7",
+          "title": "Pokhara",
+          "description": "Lake, Sarangkot sunrise and a short day hike."
+        },
+        {
+          "day": "Days 8–9",
+          "title": "Chitwan",
+          "description": "Safari activities in the national park."
+        },
+        {
+          "day": "Day 10",
+          "title": "Return to Kathmandu",
+          "description": "Drive back and depart."
+        }
+      ],
+      "includes": [
+        "Airport transfers and private vehicle with driver",
+        "Licensed local guide",
+        "Hotel accommodation with breakfast",
+        "Entrance fees to listed sites"
+      ],
+      "excludes": [
+        "International flights and visa fees",
+        "Travel insurance",
+        "Lunches, dinners and drinks unless listed",
+        "Tips and personal expenses"
+      ]
+    }
+  ],
+  "departures": [
+    {
+      "id": "d1",
+      "tripSlug": "everest-base-camp-trek",
+      "startDate": "2026-11-07",
+      "priceUsd": 1650,
+      "seatsLeft": 3
+    },
+    {
+      "id": "d2",
+      "tripSlug": "annapurna-base-camp-trek",
+      "startDate": "2026-11-10",
+      "priceUsd": 1090,
+      "seatsLeft": 6
+    },
+    {
+      "id": "d3",
+      "tripSlug": "kathmandu-heritage-tour",
+      "startDate": "2026-11-14",
+      "priceUsd": 290,
+      "seatsLeft": 8
+    },
+    {
+      "id": "d4",
+      "tripSlug": "chitwan-wildlife-safari",
+      "startDate": "2026-11-18",
+      "priceUsd": 390,
+      "seatsLeft": 5
+    },
+    {
+      "id": "d5",
+      "tripSlug": "poon-hill-and-pokhara",
+      "startDate": "2026-11-21",
+      "priceUsd": 690,
+      "seatsLeft": 10
+    },
+    {
+      "id": "d6",
+      "tripSlug": "langtang-valley-trek",
+      "startDate": "2026-11-28",
+      "priceUsd": 820,
+      "seatsLeft": 4
+    },
+    {
+      "id": "d7",
+      "tripSlug": "everest-base-camp-trek",
+      "startDate": "2026-12-05",
+      "priceUsd": 1590,
+      "seatsLeft": 9
+    },
+    {
+      "id": "d8",
+      "tripSlug": "nepal-highlights-overland",
+      "startDate": "2026-12-12",
+      "priceUsd": 1190,
+      "seatsLeft": 7
+    },
+    {
+      "id": "d9",
+      "tripSlug": "shivapuri-day-hike",
+      "startDate": "2026-12-13",
+      "priceUsd": 55,
+      "seatsLeft": 12
+    },
+    {
+      "id": "d10",
+      "tripSlug": "chitwan-wildlife-safari",
+      "startDate": "2026-12-20",
+      "priceUsd": 390,
+      "seatsLeft": 2
+    },
+    {
+      "id": "d11",
+      "tripSlug": "poon-hill-and-pokhara",
+      "startDate": "2026-12-27",
+      "priceUsd": 690,
+      "seatsLeft": 6
+    },
+    {
+      "id": "d12",
+      "tripSlug": "kathmandu-heritage-tour",
+      "startDate": "2027-01-09",
+      "priceUsd": 290,
+      "seatsLeft": 10
+    },
+    {
+      "id": "d13",
+      "tripSlug": "nepal-highlights-overland",
+      "startDate": "2027-01-16",
+      "priceUsd": 1190,
+      "seatsLeft": 8
+    },
+    {
+      "id": "d14",
+      "tripSlug": "bardia-tiger-tracking",
+      "startDate": "2027-02-06",
+      "priceUsd": 640,
+      "seatsLeft": 6
+    },
+    {
+      "id": "d15",
+      "tripSlug": "annapurna-circuit-trek",
+      "startDate": "2027-03-06",
+      "priceUsd": 1390,
+      "seatsLeft": 10
+    },
+    {
+      "id": "d16",
+      "tripSlug": "everest-base-camp-trek",
+      "startDate": "2027-03-20",
+      "priceUsd": 1650,
+      "seatsLeft": 12
+    },
+    {
+      "id": "d18",
+      "tripSlug": "manaslu-circuit-trek",
+      "startDate": "2027-04-03",
+      "priceUsd": 1790,
+      "seatsLeft": 8
+    },
+    {
+      "id": "d19",
+      "tripSlug": "upper-mustang-trek",
+      "startDate": "2027-04-17",
+      "priceUsd": 2350,
+      "seatsLeft": 6
+    }
+  ]
+}
