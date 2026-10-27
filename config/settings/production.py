@@ -11,7 +11,7 @@ from .base import env
 # https://docs.djangoproject.com/en/dev/ref/settings/#secret-key
 SECRET_KEY = env("DJANGO_SECRET_KEY")
 # https://docs.djangoproject.com/en/dev/ref/settings/#allowed-hosts
-ALLOWED_HOSTS = env.list("DJANGO_ALLOWED_HOSTS", default=["api.himalayasvows.com"])
+ALLOWED_HOSTS = env.list("DJANGO_ALLOWED_HOSTS", default=["api.royalhimalayaexperiences.com"])
 
 # DATABASES
 # ------------------------------------------------------------------------------
@@ -79,7 +79,7 @@ STORAGES = {
 # https://docs.djangoproject.com/en/dev/ref/settings/#default-from-email
 DEFAULT_FROM_EMAIL = env(
     "DJANGO_DEFAULT_FROM_EMAIL",
-    default="Royal Himalaya Experiences <noreply@api.himalayasvows.com>",
+    default="Royal Himalaya Experiences <noreply@api.royalhimalayaexperiences.com>",
 )
 # https://docs.djangoproject.com/en/dev/ref/settings/#server-email
 SERVER_EMAIL = env("DJANGO_SERVER_EMAIL", default=DEFAULT_FROM_EMAIL)
@@ -154,7 +154,7 @@ LOGGING = {
 # -------------------------------------------------------------------------------
 # Tools that generate code samples can use SERVERS to point to the correct domain
 SPECTACULAR_SETTINGS["SERVERS"] = [
-    {"url": "https://api.himalayasvows.com", "description": "Production server"},
+    {"url": "https://api.royalhimalayaexperiences.com", "description": "Production server"},
 ]
 # Your stuff...
 # ------------------------------------------------------------------------------
