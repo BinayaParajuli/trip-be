@@ -158,6 +158,3 @@ SPECTACULAR_SETTINGS["SERVERS"] = [
 ]
 # Your stuff...
 # ------------------------------------------------------------------------------
-USERNAME = env("USERNAME", default="")
-PASSWORD = env("PASSWORD", default="")
-EMAIL = "noreply@nicnepal.org"
